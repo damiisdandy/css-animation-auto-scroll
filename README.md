@@ -1,7 +1,7 @@
-# Create infinite autoscroll animation with pure CSS
+# Create infinite auto-scroll animation with pure CSS
 
-![Banner for Create infinite autoscroll animation with pure CSS
-](./og.png "# Create infinite autoscroll animation with pure CSS
+![Banner for Create infinite auto-scroll animation with pure CSS
+](./og.png "# Create infinite auto-scroll animation with pure CSS
 ")
 
 To start working on this project simply run the following commands
