@@ -1,0 +1,8 @@
+{
+  "name": "animation-auto-scroll",
+  "version": "1.0.0",
+  "description": "auto scroll animation with CSS",
+  "main": "index.html",
+  "author": "damilola jerugba",
+  "license": "MIT"
+}
